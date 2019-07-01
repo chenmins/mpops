@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Require-Bundle: com.primeton.eos.richweb,com.eos.foundation,com.eos.wo
+ rkflow
+eos-webCtxPath: pub
+Bundle-Vendor: Chenmin
+Bundle-Version: 1.0.0
+Bundle-Name: org.chenmin.mpop.pub
+Bundle-Description: 
+Bundle-SymbolicName: org.chenmin.mpop.pub
+
