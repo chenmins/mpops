@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/**.SpringXml|**/**.bizlet|**/**.bizx|**/**.bpsdirx|**/**.bpsrelyx|**/**.bpsresx|**/**.componentType|**/**.compositex|**/**.datasetx|**/**.eosComponentType|**/**.flowx|**/**.namingsqlx|**/**.workflowx|**/**.wsdl|**/**.xsd|**/.copyarea.db|**/**.desc" kind="src" output="org.chenmin.mpop.admins/bin" path="org.chenmin.mpop.admins/src"/>
+	<classpathentry excluding="**/**.SpringXml|**/**.bizlet|**/**.bizx|**/**.bpsdirx|**/**.bpsrelyx|**/**.bpsresx|**/**.componentType|**/**.compositex|**/**.datasetx|**/**.eosComponentType|**/**.flowx|**/**.namingsqlx|**/**.workflowx|**/**.wsdl|**/**.xsd|**/.copyarea.db|**/**.desc" kind="src" output="org.chenmin.mpop.users/bin" path="org.chenmin.mpop.users/src"/>
+	<classpathentry excluding="**/**.SpringXml|**/**.bizlet|**/**.bizx|**/**.bpsdirx|**/**.bpsrelyx|**/**.bpsresx|**/**.componentType|**/**.compositex|**/**.datasetx|**/**.eosComponentType|**/**.flowx|**/**.namingsqlx|**/**.workflowx|**/**.wsdl|**/**.xsd|**/.copyarea.db|**/**.desc" kind="src" output="org.chenmin.mpop.interfaces/bin" path="org.chenmin.mpop.interfaces/src"/>
+	<classpathentry excluding="**/**.SpringXml|**/**.bizlet|**/**.bizx|**/**.bpsdirx|**/**.bpsrelyx|**/**.bpsresx|**/**.componentType|**/**.compositex|**/**.datasetx|**/**.eosComponentType|**/**.flowx|**/**.namingsqlx|**/**.workflowx|**/**.wsdl|**/**.xsd|**/.copyarea.db|**/**.desc" kind="src" output="org.chenmin.mpop.config/bin" path="org.chenmin.mpop.config/src"/>
+	<classpathentry excluding="**/**.SpringXml|**/**.bizlet|**/**.bizx|**/**.bpsdirx|**/**.bpsrelyx|**/**.bpsresx|**/**.componentType|**/**.compositex|**/**.datasetx|**/**.eosComponentType|**/**.flowx|**/**.namingsqlx|**/**.workflowx|**/**.wsdl|**/**.xsd|**/.copyarea.db|**/**.desc" kind="src" output="org.chenmin.mpop.pub/bin" path="org.chenmin.mpop.pub/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.primeton.studio.workbench.libraries"/>
+	<classpathentry kind="con" path="com.primeton.studio.workbench.classPath"/>
+	<classpathentry kind="con" path="com.primeton.studio.workbench.serverPath"/>
+	<classpathentry kind="con" path="com.primeton.studio.workflow.bpsPath"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
