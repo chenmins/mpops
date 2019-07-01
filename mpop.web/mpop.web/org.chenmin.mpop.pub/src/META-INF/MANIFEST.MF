@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Require-Bundle: 
-Bundle-Vendor: Chenmin
-eos-webCtxPath: pub
-Bundle-Version: 1.0.0
-Bundle-Name: 公共构建包
-Bundle-Description: 主要放数据实体和公共查询
-Bundle-SymbolicName: org.chenmin.mpop.pub
-
