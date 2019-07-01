@@ -1,10 +1,9 @@
 Manifest-Version: 1.0
-Require-Bundle: com.primeton.eos.richweb,com.eos.foundation,com.eos.wo
- rkflow
-eos-webCtxPath: pub
+Require-Bundle: 
 Bundle-Vendor: Chenmin
+eos-webCtxPath: pub
 Bundle-Version: 1.0.0
-Bundle-Name: org.chenmin.mpop.pub
-Bundle-Description: 
+Bundle-Name: 公共构建包
+Bundle-Description: 主要放数据实体和公共查询
 Bundle-SymbolicName: org.chenmin.mpop.pub
 
